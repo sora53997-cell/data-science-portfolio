@@ -15,5 +15,5 @@ This repository contains the GitHub Pages portfolio for Zihao Shao's tourist mob
 The expected URL is:
 
 ```text
-https://YOUR-GITHUB-USERNAME.github.io/data-science-portfolio/
+https://sora53997-cell.github.io/data-science-portfolio/
 ```
